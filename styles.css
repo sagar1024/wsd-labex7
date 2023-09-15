@@ -1,0 +1,26 @@
+#heading {
+    text-align: center;
+    width: 50%;
+    font-size: 2rem;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+#bookList {
+    margin: 0 auto;
+    padding: 1em;
+}
+
+li { 
+    margin: 0.1em;
+    padding: 0.1em;
+    padding-left: 0.5em;
+    font-size: 1.5rem;
+    list-style-type: none;
+    border: 1px solid black;
+}
+
+#fetchBooks {
+    padding: 0.2em;
+    font-size: 1.5rem;
+}
